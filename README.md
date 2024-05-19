@@ -10,7 +10,8 @@ Welcome to the Google Home Page Project! This project seeks to recreate [Google'
 The Google Home Page project recreates the familiar look of [Google's](https://www.google.com/) homepage, providing users quick access to search functions as well as links to other Google services like Gmail and Images. It keeps the simplicity and efficiency that users have come to expect from [Google's](https://www.google.com/) design. 
 ## Project Structure
 The project structure is organized as follows :
-- index.html: Main HTML file containing the structure of the Google Home Page.
-- tailwind.css: Tailwind CSS file for utility classes.
+- `Google.html` : Main HTML file containing the structure of the Google Home Page.
+- `tailwind.css` : Tailwind CSS file for utility classes.
+- `Image` : Directory containing image assets used in the website.
 
 
